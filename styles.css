@@ -8,6 +8,7 @@ h1 {
   color: #143924;
   font-family: verdana;
   font-size: 30px;
+  text-align: center;
 }
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
@@ -58,3 +59,10 @@ li a:hover {
 }
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
+
+.bio {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
