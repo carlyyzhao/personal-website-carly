@@ -1,12 +1,15 @@
 /*TODO: Add a background color or image to your website*/
 body {
   background-color: #fffff;
+  border: 6px solid #7bd1a1;
 }
+
 
 h1 {
   padding: 5px;
   color: #143924;
   font-family: verdana;
+  font-size: 30px;
 }
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
@@ -44,9 +47,11 @@ li a {
   color: #143924;
   font-family: Courier;
   text-decoration: none;
-  text-align: center;
   font-size: 1.3em;
+  padding: 8px;
 }
 
+
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
+
 
