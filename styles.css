@@ -5,10 +5,8 @@ body {
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
-<link href='https://fonts.googleapis.com/css?family=Questrial' rel='stylesheet'>
-
 #header1 {
-  font-family: courier;
+  font-family: 'courier';
   font-size: 50px;
   color: white;
   text-align: center;
