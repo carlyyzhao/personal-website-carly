@@ -4,7 +4,6 @@ body {
   border: 6px solid #7bd1a1;
 }
 
-
 h1 {
   padding: 5px;
   color: #143924;
@@ -24,7 +23,6 @@ h1 {
 
 .bio {
   font-family: verdana;
-  
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
@@ -36,22 +34,21 @@ h1 {
 ul {
   list-style-type: none;
   background-color: #40bf7d;
-  margin: 0px;
-  padding: 0px,
+  margin: 0;
+  padding: 0;
   overflow: hidden;
 }
+
 li {
-  display: inline;
+  float: left;
 }
+
 li a {
-  color: #143924;
+  color: white;
   font-family: Courier;
   text-decoration: none;
   font-size: 1.3em;
   padding: 8px;
 }
 
-
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
-
-
