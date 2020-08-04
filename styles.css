@@ -4,9 +4,11 @@ body {
 }
 
 
+
 h1 {
   color: navy;
-  font: questrial; 
+  <link rel="stylesheet" href="https://fonts.google.com/specimen/Questrial?preview.text=Carly+Zhao&preview.text_type=custom">
+  font-family: Questrial; 
 }
 
 
