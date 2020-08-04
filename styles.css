@@ -6,7 +6,7 @@ body {
 h1 {
   padding: 5px;
   color: #143924;
-  font-family: Questrial;
+  font-family: verdana;
 }
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
@@ -19,7 +19,10 @@ h1 {
 
 /*TODO: Add styling rules for the text and images on your website.*/
 
-.
+.bio {
+  font-family: verdana;
+  
+}
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
@@ -30,6 +33,9 @@ h1 {
 ul {
   list-style-type: none;
   background-color: #40bf7d;
+  margin: 0px;
+  padding: 0px,
+  overflow: hidden;
 }
 li {
   display: inline;
@@ -38,6 +44,7 @@ li a {
   color: #143924;
   font-family: Courier;
   text-decoration: none;
+  text-align: center;
   font-size: 1.3em;
 }
 
