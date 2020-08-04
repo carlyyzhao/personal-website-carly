@@ -59,6 +59,18 @@ body {
   padding-left: 10px;
 }
 
+#pic1 {
+  padding: 50px;
+}
+
+#pic2 {
+  padding: 50px;
+}
+
+#pic3 {
+  padding: 50px;
+}
+
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
 ul {
@@ -100,4 +112,27 @@ li a:hover {
 .bio {
   display: flex;
   flex-direction: column;
+}
+
+.project1 {
+  display: flex;
+  font-family: helvetica; 
+  text-align: center;
+}
+
+.project2 {
+  display: flex;
+  font-family: helvetica; 
+  text-align: center;
+}
+
+.project3 {
+  display: flex;
+  font-family: helvetica; 
+  text-align: center;
+}
+
+#projecttitle1 {
+  font-family: courier;
+  background-color: #00b7c2;
 }
