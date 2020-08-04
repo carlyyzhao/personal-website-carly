@@ -61,10 +61,14 @@ body {
 
 #pic1 {
   padding: 0px;
+  margin: 40px;
+  border: 8px solid #1e6494;
 }
 
 #pic2 {
   padding: 0px;
+  margin: 40px;
+  border: 8px solid #1e6494;
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
@@ -88,6 +92,7 @@ li a {
   padding: 16px 18px;
   text-decoration: none;
   font-family: courier;
+  font-size: 18px;
 }
 
 li a:hover {
@@ -113,7 +118,6 @@ li a:hover {
 .project1 {
   display: flex;
   justify-content: space-evenly;
-  text-align: center;
   margin-top: 30px;
   margin-bottom: 30px;
 }
@@ -125,17 +129,21 @@ li a:hover {
   text-align: center;
 }
 
-#projecttitle1 {
-  font-family: courier;
-  background-color: #00b7c2;
-  color: white;
-}
-
 #nah {
   background-color: #00b7c2;
   border: 8px solid #0f4c75;
   color: white;
-  font-size: 25px;
+  font-size: 20px;
+  font-family: courier;
+  margin: 20px;
+  margin-left: 30px;
+}
+
+#nah2 {
+  background-color: #00b7c2;
+  border: 8px solid #0f4c75;
+  color: white;
+  font-size: 20px;
   font-family: courier;
   margin: 20px;
   margin-left: 30px;
