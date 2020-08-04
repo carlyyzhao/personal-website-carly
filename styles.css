@@ -67,7 +67,7 @@ body {
 
 #pic2 {
   padding: 0px;
-  margin: 40px;
+  margin-left: 40px;
   border: 8px solid #1e6494;
 }
 
@@ -124,9 +124,10 @@ li a:hover {
 
 .project2 {
   display: flex;
-  justify-content: space-around;
-  font-family: helvetica; 
-  text-align: center;
+  justify-content: space-evenly;
+  font-family: helvetica;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 #nah {
@@ -135,8 +136,10 @@ li a:hover {
   color: white;
   font-size: 20px;
   font-family: courier;
-  margin: 20px;
+  margin-right: 40px;
   margin-left: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 #nah2 {
@@ -145,6 +148,8 @@ li a:hover {
   color: white;
   font-size: 20px;
   font-family: courier;
-  margin: 20px;
+  margin-right: 40px;
   margin-left: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
